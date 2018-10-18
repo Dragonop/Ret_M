@@ -1,6 +1,6 @@
 Ret_M Arduino Library
 ===========================================
-Small simple library to simplify applying delays utilizing the millis() function.
+Small library to simplify applying delays utilizing the millis() function.
 Ideal for time sensitive projects, debouncing, or for those who want to avoid utilizing delay(), delayMicroseconds(), or other of the kind that halts the program.
 
 ### Usage
